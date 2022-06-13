@@ -1,4 +1,4 @@
 #!/bin/zsh
 git add .
-git commit -m ""
-git push -u origin master -f
+git commit -m " "
+git push -u origin master 
